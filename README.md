@@ -111,7 +111,8 @@
 
 * **Residue histogram**
 
-<img width="2160" height="1259" alt="isto_residui_25" src="https://github.com/user-attachments/assets/7458d171-a31c-4e07-985b-7fc6bffbf66b" />
+<img width="2160" height="1259" alt="isto_residui_25" src="https://github.com/user-attachments/assets/af4e94ba-8aa6-4acd-8c0a-93c4ae4bd6c0" />
+
 
 <br>
 
