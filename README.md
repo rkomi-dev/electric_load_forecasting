@@ -1,4 +1,4 @@
-# STFL: Polynomial vs MLP
+# electric load forecasting
 
 ## Data exploration
 
