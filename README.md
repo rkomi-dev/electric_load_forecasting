@@ -4,6 +4,8 @@
 
 <img width="2160" height="1259" alt="smile" src="https://github.com/user-attachments/assets/631093c7-436d-4475-8ef1-38e71e5fec48" />
 <br>
+<img width="2160" height="1259" alt="esplorativi" src="https://github.com/user-attachments/assets/75b78e98-3a35-485e-b250-bea8821b0103" />
+<br>
 <img width="2160" height="1259" alt="heatmap" src="https://github.com/user-attachments/assets/14e7b3ba-a295-4021-8e32-9d24fbc23a98" />
 <br>
 <img width="1728" height="1152" alt="carnet_plot" src="https://github.com/user-attachments/assets/41f62cd7-c31c-4902-9270-94f93ce77802" />
@@ -58,30 +60,13 @@
 
 * **Response surface and performance**
 
-<img width="2160" height="1259" alt="confronto_sup_step_vs_mlp(1)" src="https://github.com/user-attachments/assets/15f76241-2b36-4bbe-b627-14eab23c3103" />
+<img width="2160" height="1259" alt="confronto_sup_step_vs_mlp" src="https://github.com/user-attachments/assets/cb002b8f-6fe7-425b-9540-1706aa42d555" />
+
 
 
 
  <br>
  
-* **Goodness of Fit**
-
-<img width="2160" height="1259" alt="confronto_gof_step_vs_mlp" src="https://github.com/user-attachments/assets/414e4394-e2c1-4e98-950b-3f115857d9fb" />
-
-
-<br>
-
-* **Dispersion of residues**
-
-<img width="2160" height="1259" alt="disp_residui" src="https://github.com/user-attachments/assets/e1901be4-5ba4-4f04-9e80-cbde3f17984a" />
-
-<br>
-
-* **Residue histogram**
-
-<img width="2160" height="1259" alt="isto_residui" src="https://github.com/user-attachments/assets/07198afa-75d7-4be4-b998-46b633d1c664" />
-
-<br>
 
 ## Final model using all 25 temperatures
 
@@ -93,25 +78,23 @@
 
 * **Goodness of Fit**
 
-<img width="2160" height="1259" alt="confronto_gof_mlp" src="https://github.com/user-attachments/assets/272778be-a9e4-45a3-8405-b438455a05e4" />
+<img width="2160" height="1259" alt="confronto_gof_mlp" src="https://github.com/user-attachments/assets/bbb61482-efc2-48f3-93d7-1f7cb453a7b8" />
+
+
+<br>
+
+
+* **Residue histogram**
+
+<img width="2160" height="1259" alt="isto_residui_25" src="https://github.com/user-attachments/assets/1f73c4b2-df45-4f86-b47f-c3d256ef236e" />
+
+
 
 <br>
 
 * **Prediction**
 
-<img width="2160" height="1259" alt="confronto_pred_mlp(1)" src="https://github.com/user-attachments/assets/434c2e4f-9bb2-40c4-9b02-747074ba0f8e" />
-
-<br>
-
-* **Dispersion of residues**
-
-<img width="2160" height="1259" alt="confronto_disp_residui_mlp" src="https://github.com/user-attachments/assets/a9bb3b48-d508-4081-9466-594da9aac14b" />
-
-<br>
-
-* **Residue histogram**
-
-<img width="2160" height="1259" alt="isto_residui_25" src="https://github.com/user-attachments/assets/af4e94ba-8aa6-4acd-8c0a-93c4ae4bd6c0" />
+<img width="2160" height="1259" alt="confronto_pred_mlp" src="https://github.com/user-attachments/assets/9d10d8ef-f753-46a4-bf0a-d6af6e5c6624" />
 
 
 <br>
@@ -122,6 +105,6 @@
 | :--- | ---: | ---: | ---: |
 | Polinomio 5° grado + Fourier | 17.93 | 10.14% | 0.8507 |
 | Stepwise + Fourier | 15.96 | 8.75% | 0.8818 |
-| MLP con 8 neuroni | 15.06 | 8.24% | 0.8947 |
-| MLP con 8 neuroni (25 temp) | 11.17 | 6.29% | 0.9420 |
-| MLP con 19 neuroni (25 temp) | 10.46 | 5.88% | 0.9492 |
+| MLP con 8 neuroni | 14.93 | 8.06% | 0.8968 |
+| MLP con 8 neuroni (25 temp) | 10.79 | 6.03% | 0.9460 |
+| <b>MLP con 19 neuroni (25 temp) | <b>10.35 | <b>5.79% | <b>0.9503 |
