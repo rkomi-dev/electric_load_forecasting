@@ -45,7 +45,8 @@
 
 * **Response surface: 5th degree + Fourier terms vs stepwise + Fourier terms**
 
-<img width="2160" height="1259" alt="confronto_sup_poli_vs_step(1)" src="https://github.com/user-attachments/assets/577e3c92-b26d-497e-b743-60d0c8ea3ca1" />
+<img width="2160" height="1259" alt="confronto_sup_poli_vs_step" src="https://github.com/user-attachments/assets/fa333307-5f7a-4b81-a4b2-741429e8c669" />
+
 
 
 <br>
